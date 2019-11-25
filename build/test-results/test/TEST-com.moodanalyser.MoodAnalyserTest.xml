@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.moodanalyser.MoodAnalyserTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2019-11-25T05:33:26" hostname="admin165-desktop" time="0.013">
+  <properties/>
+  <testcase name="givenNull_ShouldReturnHappy" classname="com.moodanalyser.MoodAnalyserTest" time="0.003"/>
+  <testcase name="givenMesage_WhenSad_ShouldReturnSad" classname="com.moodanalyser.MoodAnalyserTest" time="0.004"/>
+  <testcase name="givenMesage_WhenHappy_ShouldReturnSad" classname="com.moodanalyser.MoodAnalyserTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
